@@ -33,4 +33,4 @@
             sh 'docker image prune -af'
         }
     }
-}
+} 
